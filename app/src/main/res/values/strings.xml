@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="Tittle">BMI Calculator</string>
+    <string name="heightField">Tinggi Badan(CM)</string>
+    <string name="weightField">Berat Badan(KG)</string>
+    <string name="button">Count</string>
+    <string name="result">    </string>
+
+</resources>
